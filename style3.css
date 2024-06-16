@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+table{
+    width: 100%;
+    font-size: large;
+    border-collapse: collapse;
+}
+tr{
+    height: 50px;
+}
+.first{
+    background-color:green;
+}
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }

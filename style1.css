@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.table1{
+    width: 90%;
+    background-color: aquamarine;
+    margin-top: 100px;
+}
+.table1{
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 10px auto;
+}
+.tr{
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.td{
+    border: 1px solid black;
+    border-radius: 15px;
+    padding-left: 10px;
+}
+.tr.td{
+    text-align: center;
+}
+.table2{
+    background-color:white;
+    border: none;
+    width: 90%;
+    margin: 0 auto;
+}
